@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\DeepSeed\DeepSeed\bin\Debug\DeepSeed.exe.config
+C:\Users\User\source\repos\DeepSeed\DeepSeed\bin\Debug\DeepSeed.exe
+C:\Users\User\source\repos\DeepSeed\DeepSeed\bin\Debug\DeepSeed.pdb
+C:\Users\User\source\repos\DeepSeed\DeepSeed\obj\Debug\DeepSeed.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeepSeed\DeepSeed\obj\Debug\DeepSeed.Properties.Resources.resources
+C:\Users\User\source\repos\DeepSeed\DeepSeed\obj\Debug\DeepSeed.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DeepSeed\DeepSeed\obj\Debug\DeepSeed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeepSeed\DeepSeed\obj\Debug\DeepSeed.exe
+C:\Users\User\source\repos\DeepSeed\DeepSeed\obj\Debug\DeepSeed.pdb
