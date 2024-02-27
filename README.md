@@ -4,7 +4,7 @@
 
 Netflix Lite - is a software which checks netflix accounts
 
-## Nets
+## Main
 
 ```
 - Fast CPM
